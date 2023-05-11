@@ -1,6 +1,6 @@
 # RDMEmergencyBlips
 
-tgiannEmergencyBlips'teki sorunları çozüp iteme bağlayıp mesleğe göre ayrı menü yaptım(Polisseniz farklı EMSseniz farklı çıkıyor)
+TgiannEmergencyBlips'teki sorunları çozüp iteme bağlayıp mesleğe göre ayrı menü yaptım(Polisseniz farklı emsseniz farklı çıkıyor)
 
 Depencedies
 -qb-input
