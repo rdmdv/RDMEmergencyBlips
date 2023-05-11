@@ -154,7 +154,7 @@ function addBlip(text, color, src, scale, type, gpscolor)
         elseif gpscolor == "sd" then 
             color = 5  -- sheriff
         elseif gpscolor == "sp" then 
-            color = 3 -- state
+            color = 45 -- state
         elseif gpscolor == "pr" then 
             color = 52  -- park ranger
         end
