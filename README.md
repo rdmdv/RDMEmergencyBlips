@@ -11,7 +11,7 @@ Kurulum:
 
 1- qb-core/shared/items.lua
 
-['gps'] 		 				 = {['name'] = 'gps', 							['label'] = 'GPS', 						['weight'] = 200, 		['type'] = 'item', 		['image'] = 'gps.png', 					['unique'] = false, 		['useable'] = true, 	['shouldClose'] = false,   	['combinable'] = nil,   	['description'] = 'GPS >:('},
+['gps'] 		 				 = {['name'] = 'gps', 							['label'] = 'GPS', 						['weight'] = 200, 		['type'] = 'item', 		['image'] = 'gps.png', 					['unique'] = false, 		['useable'] = true, 	['shouldClose'] = false,   	['combinable'] = nil,   	['description'] = 'GPS'},
 
 2- resources.cfg                                                                                                      
 ensure rdm-emergencyblips
