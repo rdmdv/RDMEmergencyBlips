@@ -14,4 +14,5 @@ Kurulum:
 ['gps'] 		 				 = {['name'] = 'gps', 							['label'] = 'GPS', 						['weight'] = 200, 		['type'] = 'item', 		['image'] = 'gps.png', 					['unique'] = false, 		['useable'] = true, 	['shouldClose'] = false,   	['combinable'] = nil,   	['description'] = 'GPS >:('},
 
 2- resources.cfg den ensuresini bağlayın
-3- Oyuna giriş yapın
+
+3- Sunucuya giriş yapın
