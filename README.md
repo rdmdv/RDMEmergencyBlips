@@ -13,7 +13,7 @@ Kurulum:
 
 ['gps'] 		 				 = {['name'] = 'gps', 							['label'] = 'GPS', 						['weight'] = 200, 		['type'] = 'item', 		['image'] = 'gps.png', 					['unique'] = false, 		['useable'] = true, 	['shouldClose'] = false,   	['combinable'] = nil,   	['description'] = 'GPS'},
 
-2- resources.cfg                                                                                                      
+2- server.cfg                                                                                                      
 ensure rdm-emergencyblips
 
 3- Sunucuya giriş yapın
