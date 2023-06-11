@@ -76,6 +76,18 @@ AddEventHandler('tgiann-closest-police', function(cb)
 	cb({closestPolice = closestPolice, policeCount = policeCount}) 
 end)
 
+CreateThread(function()
+    while true do
+        Wait(1000)
+		local hasItem = QBCore.Functions.HasItem('gps')
+        if activeGps then
+            if not hasItem then
+				TriggerServerEvent('rdm-gps:acikgps-kapat', false)
+            end
+        end
+    end
+end)
+
 Citizen.CreateThread(function()
 	while true do
 		if activeGps then
