@@ -82,7 +82,7 @@ CreateThread(function()
 	local hasItem = QBCore.Functions.HasItem('gps')
         if activeGps then
             if not hasItem then
-		TriggerServerEvent('rdm-gps:acikgps-kapat', false)
+		TriggerServerEvent('tgiann-gps:acikgps-kapat', false)
             end
         end
     end
